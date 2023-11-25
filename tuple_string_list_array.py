@@ -1,7 +1,7 @@
 # tuple_vs_string_vs_list_vs_array
 
 tuple_1 = (27, True, "car", "house", "bike")
-print(len(tuple_1))
+print(f"The length of the tuple is = {len(tuple_1)}")
 print()
 
 single_tuple = ("car", )
