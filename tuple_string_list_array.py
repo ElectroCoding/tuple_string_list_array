@@ -1,6 +1,17 @@
 # tuple_vs_string_vs_list_vs_array
 # checking github for updates
 
+
+print()
+print("========================================")
+empty_list = []
+print(f"The length of the list is = {len(empty_list)}")
+print(f"The type of the list is = {type(empty_list)}")
+print("========================================")
+print()
+
+
+
 print()
 print("========================================")
 tuple_1 = (27, True, "car", "house", "bike")
